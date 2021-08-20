@@ -6,3 +6,5 @@ This script build upon the functionality provided by https://github.com/cunningh
 
 The script is used to bulk add all member of a tenant (excluding members with permission other than read-only) to a 
 mail-enabled security group which can then be used to provide access to various resources within Office 365
+
+users can be filtered on line 7
